@@ -1,0 +1,9 @@
+AWS 관련 설치
+pip install boto3
+
+.env 설치
+pip install python-dotenv
+
+FastAPI 설치
+pip install uvicorn
+pip install fastapi
